@@ -34,12 +34,15 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 #oauth
 gem 'oauth2'
+gem 'oauth'
+gem "oauth-plugin", "~> 0.4.0"
 
 gem 'httparty'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  gem 'rspec-rails', '~> 3.5'
 end
 
 group :development do
