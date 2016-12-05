@@ -1,0 +1,4 @@
+Client ID (Consumer Key)
+dj0yJmk9TkNyd2pBakVPU3Z6JmQ9WVdrOVdFNU5ZV0pXTkhFbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD0xNQ--
+Client Secret (Consumer Secret)
+e9a4bf467ff0725c2150a3e85f76f990c7a05cc3
